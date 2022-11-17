@@ -5,7 +5,7 @@ A starter repository with React, Tailwind, Vivid, and Express set up
 This repository contains both an Express backend (within api) and a React frontend (within client). To get started, clone the repository. Navigate to your terminal and execute the following command.
 
 ```bash
-git clone https://github.com/aryamankha/mern-tailwind-vivid-starter.git
+git clone https://github.com/vivid-labs/mern-tailwind-vivid-starter.git
 ```
 In order to have a fully functional web app, you'll need to run both the frontend and the backend simultaneously. 
 ## Starting the frontend
